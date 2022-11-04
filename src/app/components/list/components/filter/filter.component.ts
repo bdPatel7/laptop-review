@@ -1,5 +1,4 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
-import { MatSliderChange } from '@angular/material/slider';
 import { KeyValuePair } from '../../models/laptop';
 type CustomOptions = {
   value:string, display:string

@@ -4,7 +4,6 @@ import {
   RouterStateSnapshot,
   ActivatedRouteSnapshot
 } from '@angular/router';
-import { Observable, of } from 'rxjs';
 import { Laptop } from '../models/laptop';
 import { ListService } from '../service/list.service';
 
