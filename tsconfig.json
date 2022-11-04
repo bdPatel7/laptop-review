@@ -19,7 +19,8 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "resolveJsonModule": true // to read local json file
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
